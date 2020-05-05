@@ -1,0 +1,17 @@
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
+    <defs>
+        <style>.cls-1{opacity:0.2;}.cls-2{fill:#fff;}</style>
+    </defs>
+    <title>proportion self consumed</title>
+    <g id="PROPORTION_SELF_CONSUMED" data-name="PROPORTION SELF CONSUMED">
+        <g class="cls-1">
+            <circle class="cls-2" cx="100" cy="100" r="100"/>
+        </g>
+        <g id="Business">
+            <path class="cls-2" d="M56.14,151.14a65,65,0,0,0,110.57-46.43h-65Z"/>
+            <path class="cls-2"
+                  d="M113.14,37.38a58.66,58.66,0,0,1,48.21,47.78H113.14V37.38m-6.43-7.13V91.59h61.84a65.05,65.05,0,0,0-61.84-61.34Z"/>
+            <path class="cls-2" d="M92.56,93.42V32.48A65,65,0,0,0,47,139.56Z"/>
+        </g>
+    </g>
+</svg>

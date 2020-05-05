@@ -1,0 +1,21 @@
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
+    <defs>
+        <style>.cls-1{opacity:0.2;}.cls-2{fill:#fff;}</style>
+    </defs>
+    <title>peak power produced</title>
+    <g id="PEAK_POWER_PRODUCED" data-name="PEAK POWER PRODUCED">
+        <g class="cls-1">
+            <circle class="cls-2" cx="100" cy="100" r="100"/>
+        </g>
+        <g id="Business">
+            <polygon class="cls-2"
+                     points="138.38 56.29 146.81 64.73 97.37 109.87 70.58 84.44 30.42 120.38 37.7 128.51 70.36 99.29 97.22 124.79 154.54 72.46 162.19 80.1 169.58 50.44 138.38 56.29"/>
+            <polygon class="cls-2"
+                     points="41.88 136.46 41.88 149.56 72.45 149.56 72.45 114.21 70.27 111.89 41.88 136.46"/>
+            <polygon class="cls-2"
+                     points="83.92 123.36 83.92 149.56 114.49 149.56 114.49 121.17 97.02 135.91 83.92 123.36"/>
+            <polygon class="cls-2"
+                     points="125.41 111.89 125.41 149.56 155.99 149.56 155.99 88.96 153.8 85.41 125.41 111.89"/>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,13 @@
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
+    <defs>
+        <style>.cls-1{opacity:0.2;}.cls-2{fill:#fff;}</style>
+    </defs>
+    <title>energy produced</title>
+    <g id="ENERGY_PRODUCED" data-name="ENERGY PRODUCED">
+        <g class="cls-1">
+            <circle class="cls-2" cx="100" cy="100" r="100"/>
+        </g>
+        <path id="Multimedia" class="cls-2"
+              d="M154.51,82.16V63.66H27.65v72.68H154.51v-18.5h17.84V82.16Zm-94.25,41.3H38.88V76.54H60.26Zm27.67,0H66.55V76.54H87.93Zm27.68,0H94.22V76.54h21.39Z"/>
+    </g>
+</svg>

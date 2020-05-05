@@ -1,0 +1,14 @@
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
+    <defs>
+        <style>.cls-1{opacity:0.2;}.cls-2{fill:#fff;}</style>
+    </defs>
+    <title>energy consumed</title>
+    <g id="ENERGY_CONSUMED" data-name="ENERGY CONSUMED">
+        <g class="cls-1">
+            <circle class="cls-2" cx="100" cy="100" r="100"/>
+        </g>
+        <path class="cls-2"
+              d="M30.63,142.14v9.08H169.37v-9.08a3,3,0,0,0-3-3H156.29V97.22h6.81L129.52,48.78h-59L61.6,61.32V48.78H48.48V79.85L36.18,97.22h5.55v41.89H33.66A3,3,0,0,0,30.63,142.14Zm67.37-3V93.3l26-36.78L148.21,91.4v47.71H130.8V108.33H116.17v30.78Zm-48.45,0V97.22H89.92v41.89Z"/>
+        <rect class="cls-2" x="59.6" y="99.49" width="14.38" height="19.87"/>
+    </g>
+</svg>
